@@ -1,0 +1,26 @@
+1:- variable
+  varible ye is memory location huta hain program me jes ke value change hu ti hian 
+example 
+    age=24      aor aik year ghuzar gaya aor mere age 24 se 25 hu gaya tu me ais he variable
+                me chance kar skta hu
+     age=25
+
+2:- type
+      jub hm kese variable ke type ko malumi kari ke liye hm yee use karti hian
+    name="asad"
+
+  print(type(name))
+
+3:- Case Sensitive languge
+     python ye case sensitive huta hain it mean ke python ke Capital A aor small a 
+     duno alg alg huta hain ais waja se ye case sentitive hian
+
+4:- ap ne DBMS para hu ga sql me A and a yee dono same hu ti han ais waja se wo nhi huti case sensitive
+ 
+5:-comment
+    single line  reprisent by #
+     multi line   reprsnt by """
+  shortcut  ctrl + forward slish
+
+6:- Type of operators
+    that are symbol to performs some operation between operands.
